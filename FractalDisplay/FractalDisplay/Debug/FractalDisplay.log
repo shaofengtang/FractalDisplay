@@ -1,0 +1,5 @@
+﻿  ClientPanel.cpp
+d:\code\fractaldisplay\fractaldisplay\clientpanel.cpp(401): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\code\fractaldisplay\fractaldisplay\clientpanel.cpp(402): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FractalDisplay.vcxproj -> D:\code\FractalDisplay\Debug\FractalDisplay.exe
+  FractalDisplay.vcxproj -> D:\code\FractalDisplay\Debug\FractalDisplay.pdb (Partial PDB)
